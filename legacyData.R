@@ -1,6 +1,5 @@
 library(RMySQL)
-library(stringr)
-library(pander)
+library(GenomicRanges)
 library(dplyr)
 options(useFancyQuotes = FALSE)
 
